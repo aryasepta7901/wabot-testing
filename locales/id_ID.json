@@ -1,0 +1,22 @@
+{
+    "intro": "Selamat datang pada BOT Pelayanan Desa Cantik",
+    "body" :"Kami Menyediakan Layanan sebagai berikut:",
+    "template.menu": "Ketik angka *{{number}}* : untuk *{{menu}}*",
+    "menu.daftarProduk": "🧰 Daftar Produk",
+    "menu.alamatKantor": "Alamat Kantor",
+
+
+    
+    "introProduk": "Anda memilih menu *Daftar Produk*",
+
+    "template.ListProduk": "Ketik angka *{{number}}* : untuk *{{menu}}*",
+   
+    "menu.kembali":"Kembali",
+    "menu.listProduk1":"Layanan Statistik",
+    "menu.listProduk2":"Pengaduan Pelayanan",
+    "outroProduk": " _#Data Mencerdaskan Bangsa_"
+
+
+
+
+}
